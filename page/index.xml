@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Pages on JLUBOOK 新生指南</title>
-        <link>https://blog.aqiu.top/page/</link>
+        <link>https://fornew.jlubook.com/page/</link>
         <description>Recent content in Pages on JLUBOOK 新生指南</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
-        <lastBuildDate>Thu, 14 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://blog.aqiu.top/page/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Thu, 14 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://fornew.jlubook.com/page/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>关于</title>
-        <link>https://blog.aqiu.top/%E5%85%B3%E4%BA%8E/</link>
+        <link>https://fornew.jlubook.com/%E5%85%B3%E4%BA%8E/</link>
         <pubDate>Thu, 14 Jul 2022 00:00:00 +0000</pubDate>
         
-        <guid>https://blog.aqiu.top/%E5%85%B3%E4%BA%8E/</guid>
+        <guid>https://fornew.jlubook.com/%E5%85%B3%E4%BA%8E/</guid>
         <description>&lt;h2 id=&#34;jlubook-最开始的想法&#34;&gt;JLUBook 最开始的想法&lt;/h2&gt;
 &lt;p&gt;时间回到 2022 年 3 月末，长春爆发的那场疫情似乎都让我们措手不及;在寝室的我还能干点啥，于是想:算了，要不做个网站试试?消息众多，或多或少我们都会忘了那么几件，找人帮 忙也不知该去问谁，于是乎，这个网站的想法就植入内心了。可惜，我是个菜鸡(骂骂咧咧 bushi) 上面的文字，可能就是这个网站的基础功能了吧，如同百宝箱一样的收纳校内对于我们而言有必 要知道的消息，如果忘记了，就在这个网站查一查，也算是服务于大家了。&lt;/p&gt;
 &lt;h2 id=&#34;关于我们&#34;&gt;关于我们&lt;/h2&gt;
@@ -27,19 +27,19 @@
         </item>
         <item>
         <title>链接</title>
-        <link>https://blog.aqiu.top/%E9%93%BE%E6%8E%A5/</link>
+        <link>https://fornew.jlubook.com/%E9%93%BE%E6%8E%A5/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>https://blog.aqiu.top/%E9%93%BE%E6%8E%A5/</guid>
+        <guid>https://fornew.jlubook.com/%E9%93%BE%E6%8E%A5/</guid>
         <description>&lt;p&gt;欢迎大家来我们的JLUBOOK官网看看！&lt;/p&gt;
 </description>
         </item>
         <item>
         <title>搜索</title>
-        <link>https://blog.aqiu.top/search/</link>
+        <link>https://fornew.jlubook.com/search/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>https://blog.aqiu.top/search/</guid>
+        <guid>https://fornew.jlubook.com/search/</guid>
         <description></description>
         </item>
         
