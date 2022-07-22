@@ -7,6 +7,14 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <lastBuildDate>Fri, 22 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://fornew.jlubook.com/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>归档</title>
+        <link>https://fornew.jlubook.com/archives/</link>
+        <pubDate>Fri, 22 Jul 2022 00:00:00 +0000</pubDate>
+        
+        <guid>https://fornew.jlubook.com/archives/</guid>
+        <description></description>
+        </item>
+        <item>
         <title>新生团组织关系转接操作指南</title>
         <link>https://fornew.jlubook.com/p/%E6%8C%87%E5%8D%97/</link>
         <pubDate>Fri, 22 Jul 2022 00:00:00 +0000</pubDate>
@@ -173,25 +181,29 @@
 &lt;p&gt;首先按照之前确定的范围筛选一些产品（比如在京东筛选），或是去看看评测媒体的推荐。&lt;/p&gt;
 &lt;p&gt;然后建议去信誉良好的评测媒体观看评测视频（中正评测/笔吧评测室/极客湾等），了解电脑的具体情况。&lt;/p&gt;
 &lt;h2 id=&#34;各家品牌的产品线&#34;&gt;各家品牌的产品线&lt;/h2&gt;
-&lt;h3 id=&#34;-联想&#34;&gt;① 联想&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;可点击图片放大查看 👀 （截止到2022.07）&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;p&gt;&lt;img src=&#34;https://fornew.jlubook.com/p/%E7%AC%94%E8%AE%B0%E6%9C%AC%E9%80%89%E8%B4%AD%E6%8C%87%E5%8D%97/%E8%81%94%E6%83%B3.jpg&#34;
 	width=&#34;1536&#34;
 	height=&#34;379&#34;
 	srcset=&#34;https://fornew.jlubook.com/p/%E7%AC%94%E8%AE%B0%E6%9C%AC%E9%80%89%E8%B4%AD%E6%8C%87%E5%8D%97/%E8%81%94%E6%83%B3_hufd3a2e629cd21093bb6e9f5115a1fcab_50581_480x0_resize_q75_box.jpg 480w, https://fornew.jlubook.com/p/%E7%AC%94%E8%AE%B0%E6%9C%AC%E9%80%89%E8%B4%AD%E6%8C%87%E5%8D%97/%E8%81%94%E6%83%B3_hufd3a2e629cd21093bb6e9f5115a1fcab_50581_1024x0_resize_q75_box.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
+		alt=&#34;联想&#34;
+	
 	
 		class=&#34;gallery-image&#34; 
 		data-flex-grow=&#34;405&#34;
 		data-flex-basis=&#34;972px&#34;
 	
-&gt;&lt;/p&gt;
-&lt;h3 id=&#34;-华为&#34;&gt;② 华为&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&#34;https://fornew.jlubook.com/p/%E7%AC%94%E8%AE%B0%E6%9C%AC%E9%80%89%E8%B4%AD%E6%8C%87%E5%8D%97/%E5%8D%8E%E4%B8%BA.jpg&#34;
+&gt; &lt;img src=&#34;https://fornew.jlubook.com/p/%E7%AC%94%E8%AE%B0%E6%9C%AC%E9%80%89%E8%B4%AD%E6%8C%87%E5%8D%97/%E5%8D%8E%E4%B8%BA.jpg&#34;
 	width=&#34;1536&#34;
 	height=&#34;406&#34;
 	srcset=&#34;https://fornew.jlubook.com/p/%E7%AC%94%E8%AE%B0%E6%9C%AC%E9%80%89%E8%B4%AD%E6%8C%87%E5%8D%97/%E5%8D%8E%E4%B8%BA_hu99a6ff9546494f833e375a5f6c624e40_33991_480x0_resize_q75_box.jpg 480w, https://fornew.jlubook.com/p/%E7%AC%94%E8%AE%B0%E6%9C%AC%E9%80%89%E8%B4%AD%E6%8C%87%E5%8D%97/%E5%8D%8E%E4%B8%BA_hu99a6ff9546494f833e375a5f6c624e40_33991_1024x0_resize_q75_box.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
+	
+		alt=&#34;华为&#34;
 	
 	
 		class=&#34;gallery-image&#34; 
@@ -199,25 +211,26 @@
 		data-flex-basis=&#34;907px&#34;
 	
 &gt;&lt;/p&gt;
-&lt;h3 id=&#34;-荣耀产品线&#34;&gt;③ 荣耀产品线&lt;/h3&gt;
 &lt;p&gt;&lt;img src=&#34;https://fornew.jlubook.com/p/%E7%AC%94%E8%AE%B0%E6%9C%AC%E9%80%89%E8%B4%AD%E6%8C%87%E5%8D%97/%E8%8D%A3%E8%80%80.jpg&#34;
 	width=&#34;1510&#34;
 	height=&#34;605&#34;
 	srcset=&#34;https://fornew.jlubook.com/p/%E7%AC%94%E8%AE%B0%E6%9C%AC%E9%80%89%E8%B4%AD%E6%8C%87%E5%8D%97/%E8%8D%A3%E8%80%80_hu4022f9afd218435ef08dd5eebb153da0_74831_480x0_resize_q75_box.jpg 480w, https://fornew.jlubook.com/p/%E7%AC%94%E8%AE%B0%E6%9C%AC%E9%80%89%E8%B4%AD%E6%8C%87%E5%8D%97/%E8%8D%A3%E8%80%80_hu4022f9afd218435ef08dd5eebb153da0_74831_1024x0_resize_q75_box.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
+		alt=&#34;荣耀&#34;
+	
 	
 		class=&#34;gallery-image&#34; 
 		data-flex-grow=&#34;249&#34;
 		data-flex-basis=&#34;599px&#34;
 	
-&gt;&lt;/p&gt;
-&lt;h3 id=&#34;-戴尔产品线&#34;&gt;④ 戴尔产品线&lt;/h3&gt;
-&lt;p&gt;&lt;img src=&#34;https://fornew.jlubook.com/p/%E7%AC%94%E8%AE%B0%E6%9C%AC%E9%80%89%E8%B4%AD%E6%8C%87%E5%8D%97/%E6%88%B4%E5%B0%94.jpg&#34;
+&gt; &lt;img src=&#34;https://fornew.jlubook.com/p/%E7%AC%94%E8%AE%B0%E6%9C%AC%E9%80%89%E8%B4%AD%E6%8C%87%E5%8D%97/%E6%88%B4%E5%B0%94.jpg&#34;
 	width=&#34;1536&#34;
 	height=&#34;516&#34;
 	srcset=&#34;https://fornew.jlubook.com/p/%E7%AC%94%E8%AE%B0%E6%9C%AC%E9%80%89%E8%B4%AD%E6%8C%87%E5%8D%97/%E6%88%B4%E5%B0%94_hu98686baf4334f35adbde4668dba5b237_67815_480x0_resize_q75_box.jpg 480w, https://fornew.jlubook.com/p/%E7%AC%94%E8%AE%B0%E6%9C%AC%E9%80%89%E8%B4%AD%E6%8C%87%E5%8D%97/%E6%88%B4%E5%B0%94_hu98686baf4334f35adbde4668dba5b237_67815_1024x0_resize_q75_box.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
+	
+		alt=&#34;戴尔&#34;
 	
 	
 		class=&#34;gallery-image&#34; 
